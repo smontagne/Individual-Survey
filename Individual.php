@@ -48,10 +48,10 @@ $restrictionarray = array();
 $weighted = 0;
 
 // K = Number of tasks displayed to the respondent
-$K = 5;
+$K = 10;
 
 // N = Number of profiles displayed in each task
-$N = 2;
+$N = 4;
 
 // num_attributes = Number of Attributes in the Array
 $num_attributes = count($featurearray);
